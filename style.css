@@ -1,0 +1,58 @@
+body {
+    background: #d3d3d326;
+}
+
+
+header {
+    background: #91a5fa;
+    text-align: center;
+    padding: 20px 20px;
+}
+
+input {
+    width:100%;
+    box-sizing:100% border-box;
+    padding: 5px;
+}
+
+.title {
+    font-weight:bold;
+    font-size:large;
+    color: white;
+}
+
+.subtitle {
+    color: rgb(211, 206, 206);
+    font-size: small;
+}
+
+.greetings {
+    text-align: center;
+}
+
+h2{
+    background: #2543c5;
+    text-align: center;
+    padding: 20px 20px;
+    color: white; 
+}
+
+#rumusLuas{
+    text-align:center;
+    font-weight: bold;
+}
+
+#rumusKeliling{
+    text-align:center;
+    font-weight: bold;
+}
+.example-square {
+    margin: auto;
+    width: 30%;
+    height: 150px;
+    border: 1px solid red;
+}
+
+h3{
+    text-align:center;
+}
